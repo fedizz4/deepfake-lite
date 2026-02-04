@@ -84,4 +84,4 @@ if uploaded_file is not None and model is not None:
 
 st.markdown("---")
 st.caption("Projet IA - Déploiement Cloud via Streamlit - Modèle : ResNet18 Custom")
-#--bon
+#--bonjo
